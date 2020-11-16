@@ -10,7 +10,7 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
 // Song titles
-const songs = ["Ek hi soch", "Zameen O asmaan", "Galti se jo"];
+const songs = ["Deedar de", "Jaan ban gaye", "Burj Khalifa"];
 
 // keep track of song
 
